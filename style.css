@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+
+.product {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50%;
+}
